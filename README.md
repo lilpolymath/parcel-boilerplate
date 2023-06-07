@@ -1,4 +1,7 @@
-### This boilerplate has an `.nvmrc` file, make sure you have nvm installed, if not, [install it](https://github.com/nvm-sh/nvm):
+## Parcel Boilerplate
+
+
+This boilerplate has an `.nvmrc` file, make sure you have nvm installed, if not, [install it](https://github.com/nvm-sh/nvm):
 
 ### Run
 
